@@ -12,22 +12,16 @@
     "test": "jest",
     "test-dev": "npx jest --watch",
     "dev": "ts-node-dev --debug --respawn --transpileOnly ./src/commands/index.ts",
-    "start": "node ./dist/index.js",    
+    "start": "node ./dist/index.js"    
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/acttoreact/A2R.git"
   },
   "keywords": [
-    "a2r",
-    "binpar",
-    "framework",
-    "reactjs",
-    "react",
-    "nextjs",
-    "reactive",
-    "websocket",
-    "redis"
+    "BinPar",
+    "CodePretty",
+    "Promises"    
   ],
   "author": "Ignacio Ferro Picón <nacho@binpar.com> (https://a2r.com/)",
   "license": "ISC",
