@@ -4,6 +4,7 @@
     "binpar",
     "downlevel",
     "plusplus",
+    "promisify",
     "respawn",
     "sourcemap",
     "tslib"

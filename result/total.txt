@@ -1,0 +1,12 @@
+{
+  ".eslintignore": 1,
+  ".npmignore": 7,
+  ".eslintrc": 67,
+  ".prettierignore": 1,
+  ".prettierrc": 10,
+  ".gitignore": 64,
+  "package.json": 75,
+  "tsconfig.json": 68,
+  "jest.config.js": 8,
+  "package-lock.json": 10326
+}
